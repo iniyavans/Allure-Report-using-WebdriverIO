@@ -66,8 +66,7 @@ After successfully running the test case, use the following command to generate 
 ```bash
 allure generate allure-reports && allure open
 ```
-
-![reference video](https://github.com/iniyavans/Allure-Report-using-WebdriverIO/blob/feature-branch/Reference/report.mov)
+https://github.com/iniyavans/Allure-Report-using-WebdriverIO/assets/88368294/fee5e662-3a8c-44e7-8ea4-80e41cb077a4
 
 In the above command, allure-reports represents the outputDir specified in the configuration file.
 
