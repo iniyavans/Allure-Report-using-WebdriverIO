@@ -66,6 +66,9 @@ After successfully running the test case, use the following command to generate 
 ```bash
 allure generate allure-reports && allure open
 ```
+
+https://github.com/iniyavans/Allure-Report-using-WebdriverIO/assets/88368294/08148d52-7912-466d-b41b-8eac3fca6b32
+
 In the above command, allure-reports represents the outputDir specified in the configuration file.
 
 Running the command above will generate a new report and open it on a local web server. The server typically starts at http://192.168.1.158:65524.
