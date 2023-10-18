@@ -16,7 +16,13 @@ Before you start, make sure you have the following prerequisites installed:
 
 3. **Java**: You need [Java](https://www.oracle.com/java/technologies/javase-downloads.html) installed to run Allure.
 
-4. **Allure Command Line**: Install the Allure command-line tool using npm:
+4. **Install Allure**: Install the Allurew dependencies using npm:
+
+    ```bash
+    npm install @wdio/allure-reporter --save-dev
+    ```
+    
+5. **Allure Command Line**: Install the Allure command-line tool using npm:
 
     ```bash
     npm install -g allure-commandline
